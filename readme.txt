@@ -1,3 +1,6 @@
+# bower download
+bower install mystique-style
+
 # install modules
 npm install
 
